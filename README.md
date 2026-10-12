@@ -1,5 +1,8 @@
 # Cybernetic-AI-Governor
 
+<p align="center"><img src="CyberKnot.png" width="300"/></p>
+
+
 [![arXiv](https://shields.io)](https://arxiv.org)
 [![License: GPL v3](https://shields.io)](https://gnu.org)
 
